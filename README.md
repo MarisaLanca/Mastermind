@@ -1,7 +1,7 @@
 # Mastermind
 Jogo Mastermind criado em C++
 
-O jogo foi efetuado no ambito do trabalho final de C++ básico.
+O jogo foi efetuado no ambito do trabalho final de C++ básico. \n
 Neste jogo o jogador deve adivinhar qual o código secreto, tem até 10 tentativas para o fazer.
 
 Regras:
